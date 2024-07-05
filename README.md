@@ -6,7 +6,7 @@ Este projeto foi realizado pelo Squad 3 para o Módulo 3 do curso Data Analytics
 
 ### Squad
 
-- Luis Fernando - Gestor de Conhecimento
+- Luiz Fernando - Gestor de Conhecimento
 - Luis Guilherme - Gestor de Gente e Engajamento
 - João Guilherme - Co-Facilitador
 - Isadora Maiolino - Colaboradora I
